@@ -31,7 +31,7 @@ python app.py
 CEO Exit Data - http://www.challengergray.com/tags/ceo-turnover-report
 Stock Data - https://www.quandl.com/
 
-# Tech Stack
+## Tech Stack
 * HTML to showcase the final product
 * FLASK to run the html
 * BOOTSTRAP for the visuals
