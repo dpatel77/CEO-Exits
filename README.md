@@ -19,7 +19,7 @@ or
 python app.py
 ```
 
-# Contributors
+## Contributors
 
 * Dharti Patel
 * Tanisha Blakely
