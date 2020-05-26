@@ -28,3 +28,6 @@ CEO Exit Data - http://www.challengergray.com/tags/ceo-turnover-report
 Stock Data - https://www.quandl.com/
 
 # Tech Stack
+* HTML to showcase the final product
+* flask
+* bootstrap
