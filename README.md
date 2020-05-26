@@ -1,6 +1,14 @@
 # CEO Exits
 
-App Instructions:
+## Project Overview
+
+2019 had a record number of CEOs who stepped down from their companies. We built a Flask app to present the # of CEO exits from the past 5 years, 2015-2019.
+
+The Government/Non-Profit sector lead all sectors in CEO exits with 218 by August. According Challenger, the Technology sector announced the second-highest number of CEO changes in August 2019 with 134, up 34% from the 99 who left their posts through August 2018.
+
+We will be looking at stock performance of AAPL, MSFT, GOOGL, IBM, and INTC.
+
+## App Instructions
 
 To run this app, navigate to your project root folder and run either of the following shell commands:
 ```
@@ -10,14 +18,6 @@ or
 ```
 python app.py
 ```
-
-# Project Overview
-
-2019 had a record number of CEOs who stepped down from their companies. We built a Flask app to present the # of CEO exits from the past 5 years, 2015-2019.
-
-The Government/Non-Profit sector lead all sectors in CEO exits with 218 by August. According Challenger, the Technology sector announced the second-highest number of CEO changes in August 2019 with 134, up 34% from the 99 who left their posts through August 2018.
-
-We will be looking at stock performance of AAPL, MSFT, GOOGL, IBM, and INTC.
 
 # Contributors
 
