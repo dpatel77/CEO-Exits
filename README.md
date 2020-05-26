@@ -15,9 +15,9 @@ python app.py
 
 
 # Contributors
+* Dharti Patel
 * Tanisha Blakely
 * Abe Jones
-* Dharti Patel
 * Alap Raval
 
 # Data Sources
