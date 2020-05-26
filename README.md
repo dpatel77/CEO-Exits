@@ -26,7 +26,7 @@ python app.py
 * Abe Jones
 * Alap Raval
 
-# Data Sources
+## Data Sources
 
 CEO Exit Data - http://www.challengergray.com/tags/ceo-turnover-report
 Stock Data - https://www.quandl.com/
