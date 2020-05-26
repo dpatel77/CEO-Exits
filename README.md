@@ -29,5 +29,5 @@ Stock Data - https://www.quandl.com/
 
 # Tech Stack
 * HTML to showcase the final product
-* flask
+* FLASK to run the html
 * bootstrap
