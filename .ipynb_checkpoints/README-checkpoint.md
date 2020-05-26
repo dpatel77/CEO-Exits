@@ -16,6 +16,7 @@ python app.py
 
 
 # Contributors
+
 * Dharti Patel
 * Tanisha Blakely
 * Abe Jones
