@@ -11,6 +11,7 @@ python app.py
 ```
 
 # Project Overview
+
 2019 had a record number of CEOs who stepped down from their companies. We built a Flask app to present the # of CEO exits from the past 5 years, 2015-2019.
 
 
