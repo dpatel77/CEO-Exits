@@ -30,4 +30,4 @@ Stock Data - https://www.quandl.com/
 # Tech Stack
 * HTML to showcase the final product
 * FLASK to run the html
-* bootstrap
+* BOOTSTRAP
