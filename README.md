@@ -17,6 +17,8 @@ python app.py
 
 The Government/Non-Profit sector lead all sectors in CEO exits with 218 by August. According Challenger, the Technology sector announced the second-highest number of CEO changes in August 2019 with 134, up 34% from the 99 who left their posts through August 2018.
 
+We will be looking at stock performance of AAPL, MSFT, GOOGL, IBM, and INTC.
+
 # Contributors
 
 * Dharti Patel
